@@ -9,7 +9,8 @@ A smart, responsive web application that helps users log their daily activities,
 | Type | Link |
 |------|------|
 | **🚀 Live Application** | **[CLICK HERE TO VIEW DEPLOYED APP](https://github.com/sahithip04/EmpowerHer_Mock_Evaluation/tree/main/AI_Time_Tracker)** |
-| **🎥 Video Walkthrough** | **[CLICK HERE TO WATCH VIDEO](https://youtube.com/your-video-link)** |
+| **🎥 Video Walkthrough** | [Click to watch video](https://drive.google.com/file/d/1KYZlVPu480yoGhmq5QFNT8vBBY3z9jvE/preview) |
+
 
 > **Video Highlights:**
 > - User Authentication (Sign up/Login).
