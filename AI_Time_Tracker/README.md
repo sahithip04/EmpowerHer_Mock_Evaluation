@@ -99,13 +99,11 @@ Since this project uses Vanilla JS and CDN links, it is lightweight and easy to 
 
 ## 📸 Screenshots
 
-| Login Screen | Dashboard |
+| Login Screen | Dashboard (With Data) |
 |:---:|:---:|
-| ![Login](c:\Users\palpa\OneDrive\Pictures\Screenshots\Screenshot 2025-12-09 150837.png) | ![Dashboard](c:\Users\palpa\OneDrive\Pictures\Screenshots\Screenshot 2025-12-09 150905.png) |
+| <img src="Login.png" width="300" /> | <img src="Dashboard.png" width="300" /> |
 
-*(Note: Replace the placeholder links above with actual screenshots of your app)*
 
----
 
 ## 🚀 Future Improvements
 *   [ ] Dark Mode toggle.
