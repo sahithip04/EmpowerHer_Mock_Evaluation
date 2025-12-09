@@ -101,7 +101,7 @@ Since this project uses Vanilla JS and CDN links, it is lightweight and easy to 
 
 | Login Screen | Dashboard (With Data) |
 |:---:|:---:|
-| <img src="Login.png" width="300" /> | <img src="Dashboard.png" width="300" /> |
+| <img src="assets/Login.png" width="300" /> | <img src="assets/Dashboard.png" width="300" /> |
 
 
 
