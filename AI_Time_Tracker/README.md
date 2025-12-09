@@ -8,7 +8,7 @@ A smart, responsive web application that helps users log their daily activities,
 
 | Type | Link |
 |------|------|
-| **🚀 Live Application** | **[CLICK HERE TO VIEW DEPLOYED APP](https://your-username.github.io/your-repo-name)** |
+| **🚀 Live Application** | **[CLICK HERE TO VIEW DEPLOYED APP](https://github.com/sahithip04/EmpowerHer_Mock_Evaluation/tree/main/AI_Time_Tracker)** |
 | **🎥 Video Walkthrough** | **[CLICK HERE TO WATCH VIDEO](https://youtube.com/your-video-link)** |
 
 > **Video Highlights:**
@@ -101,7 +101,7 @@ Since this project uses Vanilla JS and CDN links, it is lightweight and easy to 
 
 | Login Screen | Dashboard |
 |:---:|:---:|
-| ![Login](https://via.placeholder.com/300x200?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard+UI) |
+| ![Login](c:\Users\palpa\OneDrive\Pictures\Screenshots\Screenshot 2025-12-09 150837.png) | ![Dashboard](c:\Users\palpa\OneDrive\Pictures\Screenshots\Screenshot 2025-12-09 150905.png) |
 
 *(Note: Replace the placeholder links above with actual screenshots of your app)*
 
